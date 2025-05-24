@@ -1,2 +1,2 @@
 # Lovemedia.tv
-# https://the-rg-archive.github.io/degenatron.com/
+# https://the-rg-archive.github.io/lovemedia.com/
